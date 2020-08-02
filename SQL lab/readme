@@ -5,3 +5,5 @@ Create 3 tables and insert data: orders, people, returns
 
 2. Show total sales for every product and cumulative total of products in its category.
   2.1 Add column % of product sales in relation to a whole category sales total.
+
+Used: create, insert, subqueries, window functions etc
