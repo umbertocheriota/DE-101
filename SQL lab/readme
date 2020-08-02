@@ -1,0 +1,7 @@
+Create 3 tables: orders, people, returns
+
+1. Show total sales for every subcategory and cumulative total of subcategory in its category.
+  1.1 Add column % of subcategory sales in relation to a whole category sales total.
+
+2. Show total sales for every product and cumulative total of products in its category.
+  2.1 Add column % of product sales in relation to a whole category sales total.
